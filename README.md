@@ -4,9 +4,13 @@
 ![](iOS11.2-iPhone_8.gif)
 
 ## iOS 11.1 / iPhone X 🤔
+UITabBar shifts upward when **pushing** a view controller
+
 ![](iOS11.1-iPhone_X.gif)
 
 ## iOS 11.2 / iPhone X 🤔
+The transition of the tab bar is not correct when **popping** a view controller
+
 ![](iOS11.2-iPhone_X.gif)
 
 ## Related pages
