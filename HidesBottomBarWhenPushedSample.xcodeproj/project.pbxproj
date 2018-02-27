@@ -12,6 +12,7 @@
 		45F76E6720454289003A4402 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45F76E6520454289003A4402 /* Main.storyboard */; };
 		45F76E6920454289003A4402 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45F76E6820454289003A4402 /* Assets.xcassets */; };
 		45F76E6C20454289003A4402 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45F76E6A20454289003A4402 /* LaunchScreen.storyboard */; };
+		45F76E7420454E72003A4402 /* SafeAreaFixTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F76E7320454E72003A4402 /* SafeAreaFixTabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		45F76E6820454289003A4402 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		45F76E6B20454289003A4402 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		45F76E6D20454289003A4402 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45F76E7320454E72003A4402 /* SafeAreaFixTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaFixTabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				45F76E6820454289003A4402 /* Assets.xcassets */,
 				45F76E6A20454289003A4402 /* LaunchScreen.storyboard */,
 				45F76E6D20454289003A4402 /* Info.plist */,
+				45F76E7320454E72003A4402 /* SafeAreaFixTabBar.swift */,
 			);
 			path = HidesBottomBarWhenPushedSample;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45F76E7420454E72003A4402 /* SafeAreaFixTabBar.swift in Sources */,
 				45F76E6420454289003A4402 /* ViewController.swift in Sources */,
 				45F76E6220454289003A4402 /* AppDelegate.swift in Sources */,
 			);
