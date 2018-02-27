@@ -1,4 +1,5 @@
 # HidesBottomBarWhenPushedSample
+- fixed version: https://github.com/hirayaCM/HidesBottomBarWhenPushedSample/commit/ac0316f401b378625484843ffda8f6a0fbcef9ac
 
 ## iOS 11.2 / iPhone 8 👍
 ![](iOS11.2-iPhone_8.gif)
